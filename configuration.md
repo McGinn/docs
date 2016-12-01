@@ -2,15 +2,20 @@
 
 #Server#
 IP Address: 192.249.59.252
-Hostname: RNuser7604
-Registered at ramnode.com
+Registered at ramnode.com until 2017/09/21
+Server location is Atlanta
 
 Used as a staging/development environment.
+
+When the contact expires I will move to Anazon LightSail
 
 Dotfiles are stored in ~/.dotfiles The master repo is at: https://github.com/McGinn/dotfiles.git
 
 
 #Domains#
+
+Domains are controlled at the DNS level using CNAME and ANAME
+
 ##alexandermcginn.com##
 The domain alexandermcginn.com is used to show a single PDF file: my resume.
 
