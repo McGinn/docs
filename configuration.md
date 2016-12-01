@@ -7,7 +7,7 @@ Server location is Atlanta
 
 Used as a staging/development environment.
 
-When the contact expires I will move to Anazon LightSail
+When the contact expires I will move to Amazon LightSail
 
 Dotfiles are stored in ~/.dotfiles The master repo is at: https://github.com/McGinn/dotfiles.git
 
@@ -29,6 +29,15 @@ The final pdf is then moved to: ~/mcginn.github.io/static/Alexander_McGinn.pdf a
 The domain alethia.ca is used as a blog. It showcases my technical ability (allowing me to practice what I learn along the way), and as a platform for thought leadership.
 
 The site uses the Pelican framework (python) with the Elegant theme. Pelican is setup in ~/blog. I edit content in ~/blog/content, run the command "pelican content" (which outputs the html to ~/blog/output), and then I move the content into ~/mcginn.github.io (which has a master repo on github.) So I run "git push origin master" to update the live versions of alethia.ca and alexandermcginn.com
+
+##photos.alethia.ca##
+Used for a Koken photoblog.
+
+Hosted on the ramode server.
+
+##track.alethia.ca##
+
+Gyrosco.pe activity tracking hosted on the gyroscope service and DNS redirected.
 
 
 ##ipy.alethia.ca (currently not working)##
